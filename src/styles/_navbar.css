@@ -1,0 +1,57 @@
+.NavBar {
+    height: 100vh;
+}
+
+.NavBar .nav {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.NavBar .nav .profile {
+    width: 100%;
+    text-align: center;
+    margin-top: 1rem;
+    border-bottom: 1px solid #2e344e;
+}
+
+.NavBar .nav .profile img {
+    width: 80%;
+    border-radius: 100%;
+    border: 5px solid #2e344e;
+    margin-bottom: 1rem;
+}
+
+.NavBar .nav .nav-items {
+    width: 100%;
+}
+
+.NavBar .nav .nav-items .nav-item {
+    list-style: none;
+    text-align: center;
+}
+
+.NavBar .nav .nav-items .nav-item a {
+    text-decoration: none;
+    font-size: inherit;
+    color: inherit;
+    display: block;
+    padding: .4rem 0;
+    position: relative;
+}
+
+.NavBar .nav .footer {
+    width: 100%;
+    border-top: 1px solid #2e344e;
+}
+
+.NavBar .nav .footer p {
+    text-align: center;
+    padding: 1.2rem 0;
+}
+
+.active {
+    background-color: #037FFF;
+}
