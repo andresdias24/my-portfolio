@@ -1,6 +1,7 @@
 @import './styles/_layout.css';
 @import './styles/_navbar.css';
 @import './styles/_typography.css';
+@import './styles/_tittle.css';
 
 * {
     padding: 0;
