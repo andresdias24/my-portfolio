@@ -23,12 +23,7 @@ function Navbar() {
                     </li>
                     <li className="nav-item">
                         <NavLink to="/portfolio" exact activeClassName="active">
-                            Portfolios
-                        </NavLink>
-                    </li>
-                    <li className="nav-item">
-                        <NavLink to="/blogs" exact activeClassName="active">
-                            Blogs
+                             Portfolio
                         </NavLink>
                     </li>
                     <li className="nav-item">
@@ -40,7 +35,7 @@ function Navbar() {
 
                 <footer className="footer">
                     <p>
-                        @2021 Lorem Ipsum
+                        @2021
                     </p>
             </footer>
             </nav>

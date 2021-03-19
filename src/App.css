@@ -1,4 +1,5 @@
 @import './styles/_about.css';
+@import './styles/_contact.css';
 @import './styles/_blog.css';
 @import './styles/_skill.css';
 @import './styles/_layout.css';
@@ -15,9 +16,11 @@
 body::-webkit-scrollbar {
   width: 8px;
 }
+
 body::-webkit-scrollbar-thumb{
   background-color: #0056d898;
 }
+
 body::-webkit-scrollbar-track {
   background: #777
 }
