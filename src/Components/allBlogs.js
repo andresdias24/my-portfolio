@@ -15,7 +15,7 @@ const blogs = [
         id: 2,
         image: blog2,
         title: 'Single Page Aplication',
-        link: 'https://github.com/andresdias24/appSiteOverclock',
+        link: 'https://pabon-app.herokuapp.com/#/about',
     },
 ];
 
