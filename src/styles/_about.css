@@ -1,6 +1,7 @@
 .ImageSection { 
-    margin-top: 4rem;
     display: flex;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
 }
 
 .ImageSection .img {
@@ -15,7 +16,7 @@
 }
 
 .ImageSection .about-info {
-    margin-left: 7rem
+    margin-left: 10rem
 }
 
 .ImageSection .about-info h4 {
