@@ -10,7 +10,7 @@ function AboutPage() {
             <Title  tittle={'Aboutme'} span={'About me'}/>       
             <ImageSection />
             <Title  tittle={'My skills'} span={'my skills'}/>   
-                <div className="skils-container">
+                <div className="skillContainer">
                     <SkillsSection  skill={'javascript'} progress={'70%'} width={'70%'}/>
                     <SkillsSection  skill={'Vue'} progress={'50%'} width={'50%'}/>
                     <SkillsSection  skill={'Node'} progress={'50%'} width={'50%'}/>
