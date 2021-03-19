@@ -14,3 +14,7 @@
     display: grid;
     position: relative;
 }
+
+.App .main-content .content {
+    margin: 5rem 15rem;
+}

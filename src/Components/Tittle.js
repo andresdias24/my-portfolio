@@ -2,7 +2,7 @@ import React from 'react'
 
 function Tittle({tittle, span}) {
     return (
-        <div className="tittle">
+        <div className="Title">
             <h3> 
                 {tittle}
                 <span>
