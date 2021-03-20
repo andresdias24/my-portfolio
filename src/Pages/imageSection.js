@@ -1,5 +1,7 @@
 import React from 'react'
 import about from '../img/about1.jpg'
+import cv from '../dataCV/cv.docx'
+
 function imageSection() {
     return (
         <div className="ImageSection">
@@ -23,7 +25,7 @@ function imageSection() {
                         <p>: Colombia</p>
                     </div>
                 </div>
-                <button className="btn">Dowload cv</button>
+                <button className="btn"><a  href={cv} download>Dowload cv</a></button>
             </div>
         </div>
     )
