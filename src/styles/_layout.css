@@ -33,12 +33,11 @@
 
 @media screen and (max-width: 425px){
     .App .nav-toggle {
-        width: 50%;
+        width: 40%;
     }
 }
 
 .App .main-content {
-    width: 84%;
     margin-left: 16%;
     background-color: #10121B;
     min-height: 100vh;
@@ -48,7 +47,7 @@
 }
 
 .App .main-content .content {
-    margin: 5rem 15rem;
+    margin: 5rem 2rem;
 }
 
 @media screen and (max-width: 1000px){

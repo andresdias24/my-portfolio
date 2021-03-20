@@ -1,7 +1,19 @@
+.AboutPages {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 .ImageSection { 
     display: flex;
     margin-top: 5rem;
     margin-bottom: 4rem;
+}
+
+@media screen and (max-width: 700px){
+    .ImageSection{
+        flex-direction: column;
+    }
 }
 
 .ImageSection .img {
@@ -10,19 +22,27 @@
 }
 
 .ImageSection .img  img {
-    width: 200%;
+    width: 100%;
     object-fit: cover;
     height: 100%;
 }
 
+@media screen and (max-width: 1000px){
+    .ImageSection .img  img{
+        width: 80%;
+    }
+}
+
+
 .ImageSection .about-info {
-    margin-left: 10rem
+    margin-left: 3rem
 }
 
 @media screen and (max-width: 1400px){
     .ImageSection .about-info {
         flex-direction: column;
-    }
+        margin: 0rem .5rem 0rem 0rem
+     }
 }
 @media screen and (min-width: 421px){
     .ImageSection .about-info {
