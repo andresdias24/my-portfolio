@@ -8,11 +8,11 @@ function HomePage() {
         <div className="HomePage">
             <header className="hero">
                 <h1 className="hero-text">
-                    Hi, I am
+                    Hola, Soy
                     <span> Web Develop</span>
                 </h1>
                 <p className="h-sub-text">
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                    Mi nombre es Andres Vargas,  soy programador junior  actualmente cuento con una experiencia de mas de dos años en el desarrollo web  con tecnologias como <strong>Vue.js, React.js, node.js, mongoDb, Cypress </strong> estoy cursando la carrera de ingenieria de softwarey soy apacionado por el aprendisaje me gusta la tecnologia 
                 </p>
                 <div className="icons">
                     <Link to="" className="icon-holder">

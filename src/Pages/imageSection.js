@@ -9,9 +9,9 @@ function imageSection() {
                 <img src={about} alt="" />
             </div>
             <div className="about-info">
-                <h4> I amm <span>Harold Vargas</span></h4>
+                <h4> Hola <span> un poco mas sobre mi</span></h4>
                 <p className="about-text">
-                    I am an organized person who complies with the tasks and requirements that are demanded of him, capable of leading and solving problems quickly. I have values such as responsibility and teamwork. I consider myself a person with a high facility to absorb theoretical and practical knowledge, I have facilities for communication and customer advice.
+                Soy una persona capaz de liderar y solucionar problemas rápidamente. Poseo valores como la responsabilidad y el trabajo en equipo. Me considero una persona con facilidad de absorber conocimientos teóricos y prácticos, tengo facilidades para la comunicación. 
                 </p>
                 <div className="about-details">
                     <div className="left-section">

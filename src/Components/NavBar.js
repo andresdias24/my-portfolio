@@ -13,22 +13,22 @@ function Navbar() {
                 <ul className="nav-items">
                     <li className="nav-item">
                         <NavLink to="/" exact activeClassName="active">
-                            Home
+                            Sobre mi
                         </NavLink>
                     </li>
                     <li className="nav-item">
                         <NavLink to="/about" exact activeClassName="active">
-                            About
+                            Habilidades
                         </NavLink>
                     </li>
                     <li className="nav-item">
                         <NavLink to="/portfolio" exact activeClassName="active">
-                             Portfolio
+                             Portafolio
                         </NavLink>
                     </li>
                     <li className="nav-item">
                         <NavLink to="/contact" exact activeClassName="active">
-                            Contact
+                            Contacto
                         </NavLink>
                     </li>
                 </ul>
