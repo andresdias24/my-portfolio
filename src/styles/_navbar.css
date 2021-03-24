@@ -19,7 +19,7 @@
 
 .NavBar .nav .profile img {
     width: 80%;
-    border-radius: 100%;
+    border-radius: 10%;
     border: 5px solid #2e344e;
     margin-bottom: 1rem;
 }

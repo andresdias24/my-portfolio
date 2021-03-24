@@ -1,5 +1,5 @@
 import React from 'react'
-import about from '../img/about1.jpg'
+import about from '../img/aboutPerson.jpeg'
 import cv from '../dataCV/cv.docx'
 
 function imageSection() {
