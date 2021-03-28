@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://andresdias24.github.io/home",
+  "homepage": "http://andres-diaz.xyz",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
@@ -19,7 +19,7 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
-    "predeployd": "npm run build && 'andres-diaz.xyz' > .build/CNAME",
+    "predeploy": "npm run build && echo andres-diaz.xyz > ./build/CNAME",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
