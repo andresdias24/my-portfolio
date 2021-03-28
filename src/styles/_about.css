@@ -6,7 +6,7 @@
 }
 .ImageSection { 
     display: flex;
-    margin-top: 5rem;
+    margin: 3rem 1rem;
     margin-bottom: 4rem;
 }
 
@@ -33,10 +33,6 @@
     }
 }
 
-
-.ImageSection .about-info {
-    margin-left: 3rem
-}
 
 @media screen and (max-width: 1400px){
     .ImageSection .about-info {

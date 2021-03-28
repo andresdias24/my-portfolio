@@ -17,6 +17,18 @@ const blogs = [
         title: 'Single Page Aplication',
         link: 'https://pabon-app.herokuapp.com/#/about',
     },
+    {
+        id: 1,
+        image: blog1,
+        title: 'Code my portfolio',
+        link: 'https://github.com/andresdias24/my-portfolio',
+    },
+    {
+        id: 2,
+        image: blog2,
+        title: 'Single Page Aplication',
+        link: 'https://pabon-app.herokuapp.com/#/about',
+    },
 ];
 
 export default blogs;
