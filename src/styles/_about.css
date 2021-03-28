@@ -99,3 +99,9 @@
 .btn:hover::after {
     width: 100%;
 }
+
+.btn .DowloadCv {
+ text-decoration: none;
+ color: white;
+ font-size: 1rem;
+}

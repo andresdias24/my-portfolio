@@ -9,15 +9,15 @@ function imageSection() {
                 <img src={about} alt="" />
             </div>
             <div className="about-info">
-                <h4> Hola <span> un poco mas sobre mi</span></h4>
+                <h4> Hola, <span> un poco mas sobre mi.</span></h4>
                 <p className="about-text">
                 Soy una persona capaz de liderar y solucionar problemas rápidamente. Poseo valores como la responsabilidad y el trabajo en equipo. Me considero una persona con facilidad de absorber conocimientos teóricos y prácticos, tengo facilidades para la comunicación. 
                 </p>
                 <div className="about-details">
                     <div className="left-section">
-                        <p>Full Name</p>
-                        <p>Age</p>
-                        <p>Countrie</p>
+                        <p>Nombre</p>
+                        <p>Edad</p>
+                        <p>Pais</p>
                     </div>
                     <div className="right-section">
                         <p>: Harold Andres Vargas Diaz</p>
@@ -25,7 +25,7 @@ function imageSection() {
                         <p>: Colombia</p>
                     </div>
                 </div>
-                <button className="btn"><a  href={cv} download>Dowload cv</a></button>
+                <button className="btn"><a className="DowloadCv" href={cv} download>Descargar Hoja de vida</a></button>
             </div>
         </div>
     )
