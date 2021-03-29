@@ -1,6 +1,6 @@
 import React from 'react'
 import about from '../img/aboutPerson.jpeg'
-import cv from '../dataCV/cv.docx'
+import cv from '../dataCV/harold-andres-vargas-diaz-hv.docx'
 
 function imageSection() {
     return (
