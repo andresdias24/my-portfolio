@@ -12,14 +12,11 @@ function HomePage() {
                     <span> Web Develop</span>
                 </h1>
                 <p className="h-sub-text">
-                    Mi nombre es Andres Vargas,  soy programador junior  actualmente cuento con una experiencia de mas de dos años en el desarrollo web  con tecnologias como <strong>Vue.js, React.js, node.js, mongoDb, Cypress </strong> estoy cursando la carrera de ingenieria de softwarey soy apacionado por el aprendisaje me gusta la tecnologia 
+                    Mi nombre es Andres Vargas,  soy programador junior  actualmente cuento con una experiencia de mas de dos años en el desarrollo web  con tecnologias como <strong>Vue.js, React.js, node.js, mongoDb, Cypress </strong> estoy cursando la carrera de ingenieria de softwarey soy apasionado por el aprendizaje me gusta la tecnología. 
                 </p>
                 <div className="icons">
-                    <Link to="" className="icon-holder">
+                    <Link to="/portfolio" className="icon-holder">
                         <FontAwesomeIcon icon={faGithub} className="icon gh"/>
-                    </Link>
-                    <Link className="icon-holder">
-                        <FontAwesomeIcon icon={faWeibo} className="icon web"/>
                     </Link>
                 </div>
             </header>

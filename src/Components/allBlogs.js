@@ -14,20 +14,14 @@ const blogs = [
     {
         id: 2,
         image: blog2,
-        title: 'Single Page Aplication',
+        title: 'Single Page Aplication nuxt',
         link: 'https://github.com/andresdias24/nuxtE-commerce',
     },
     {
         id: 3,
         image: blog1,
-        title: 'Code my portfolio',
-        link: 'https://github.com/andresdias24/my-portfolio',
-    },
-    {
-        id: 4,
-        image: blog2,
-        title: 'Single Page Aplication',
-        link: 'https://pabon-app.herokuapp.com/#/about',
+        title: 'server strapi',
+        link: 'https://github.com/andresdias24/overclock-server',
     },
 ];
 
