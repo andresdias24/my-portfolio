@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7c6945cb.chunk.css",
-    "main.js": "/static/js/main.4c76ba1c.chunk.js",
-    "main.js.map": "/static/js/main.4c76ba1c.chunk.js.map",
+    "main.js": "/static/js/main.4eeca235.chunk.js",
+    "main.js.map": "/static/js/main.4eeca235.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cf0c75d1.js",
     "runtime-main.js.map": "/static/js/runtime-main.cf0c75d1.js.map",
     "static/js/2.8d08c5af.chunk.js": "/static/js/2.8d08c5af.chunk.js",
@@ -20,7 +20,7 @@
     "static/media/blog5.d112587b.svg": "/static/media/blog5.d112587b.svg",
     "static/media/App.css": "/static/media/dots.943074de.svg",
     "static/media/emailme.8a80ecd4.svg": "/static/media/emailme.8a80ecd4.svg",
-    "static/media/harold-andres-vargas-diaz-hv.ddfb2f30.docx": "/static/media/harold-andres-vargas-diaz-hv.ddfb2f30.docx",
+    "static/media/harold-andres-vargas-diaz-hv.af0a01f5.docx": "/static/media/harold-andres-vargas-diaz-hv.af0a01f5.docx",
     "static/media/phone.da4610ad.svg": "/static/media/phone.da4610ad.svg",
     "static/media/portada.9b7d7874.jpg": "/static/media/portada.9b7d7874.jpg"
   },
@@ -28,6 +28,6 @@
     "static/js/runtime-main.cf0c75d1.js",
     "static/js/2.8d08c5af.chunk.js",
     "static/css/main.7c6945cb.chunk.css",
-    "static/js/main.4c76ba1c.chunk.js"
+    "static/js/main.4eeca235.chunk.js"
   ]
 }
