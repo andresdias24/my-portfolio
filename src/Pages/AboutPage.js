@@ -7,7 +7,7 @@ import ImageSection from './imageSection'
 function AboutPage() {
     return (
         <div className="AboutPages">
-            <Title  tittle={'Aboutme'} span={'About me'}/>       
+            <Title  tittle={'Sobre mi'} span={'Sobre mi'}/>       
             <ImageSection />
             <Title  tittle={'My skills'} span={'my skills'}/>   
                 <div className="skillContainer">

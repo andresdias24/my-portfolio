@@ -8,7 +8,7 @@ function ContactPage() {
     return (
         <div>
             <div className="title">
-                <Title  tittle={'Contact'} span={'contact me'}/>       
+                <Title  tittle={'Contacto'} span={'Contacto'}/>       
             </div>
             <div className="ContactPage">
                 <div className="map-sect">
