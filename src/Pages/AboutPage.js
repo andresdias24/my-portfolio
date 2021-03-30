@@ -9,7 +9,7 @@ function AboutPage() {
         <div className="AboutPages">
             <Title  tittle={'Sobre mi'} span={'Sobre mi'}/>       
             <ImageSection />
-            <Title  tittle={'My skills'} span={'my skills'}/>   
+            <Title  tittle={'Mis habilidades'} span={'Mis habilidades'}/>   
                 <div className="skillContainer">
                     <SkillsSection  skill={'javascript'} progress={'70%'} width={'70%'}/>
                     <SkillsSection  skill={'Vue'} progress={'50%'} width={'50%'}/>
