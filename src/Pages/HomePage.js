@@ -12,7 +12,7 @@ function HomePage() {
                     <span> Web Develop</span>
                 </h1>
                 <p className="h-sub-text">
-                    Mi nombre es Andres Vargas,  soy programador junior  actualmente cuento con una experiencia de mas de dos años en el desarrollo web  con tecnologias como <strong>Angular8, Vue.js, React.js, node.js, PHP, mongoDb, MSQL, Cypress </strong> estoy cursando la carrera de ingenieria de softwarey soy apasionado por el aprendizaje me gusta la tecnología. 
+                    Mi nombre es Harold Andres Vargas Diaz soy y resido en Bogota,  soy programador junior actualmente cuento con una experiencia de mas de dos años en el desarrollo web  con tecnologias como <strong>Angular8, Vue.js, React.js, node.js, PHP, mongoDb, MSQL,  tests: End to end con Cypress </strong> estoy cursando la carrera de ingenieria de software,  me gusta la musica,  soy apasionado por el aprendizaje y la tecnología!!
                 </p>
                 <div className="icons">
                     <Link to="/portfolio" className="icon-holder">
