@@ -65,7 +65,7 @@
 }
 
 .ContactPage .contact-sect {
-    width: 100%;
+    width: 90%;
 }
 
 .map-sect {
@@ -75,7 +75,7 @@
 
 .map-sect .iframe {
     width: 100%;
-    height: 23rem;
+    height: 22rem;
 }
 
 .contact-sect {
