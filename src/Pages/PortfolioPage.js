@@ -5,7 +5,7 @@ function PortfolioPage() {
     return (
         <div>
             <div className="b-title">
-                <Title  tittle={'portafolio'} span={'Pportafolio'}/>       
+                <Title  tittle={'portafolio'} span={'Portafolio'}/>       
             </div>
             .<div className="BlogPage">
                 {
