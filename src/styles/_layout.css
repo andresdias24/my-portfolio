@@ -75,6 +75,7 @@
     display: flex;
     align-content: space-between;
     cursor: pointer;
+    outline: none;
 }
 
 
@@ -95,10 +96,12 @@
 @media screen and (max-width: 1000px){
     .nav-btn {
         display: block;
+        outline: none;
     }
 }
 @media screen and (max-width: 1000px){
     .nav-btn .line-1, .line-2, .line-3 {
         display: block;
+        outline: none;
     }
 }
