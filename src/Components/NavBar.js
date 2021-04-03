@@ -35,7 +35,7 @@ function Navbar() {
 
                 <footer className="footer">
                     <p>
-                        @2021
+                        2021
                     </p>
             </footer>
             </nav>

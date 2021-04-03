@@ -7,7 +7,7 @@ function PortfolioPage() {
             <div className="b-title">
                 <Title  tittle={'portafolio'} span={'Portafolio'}/>       
             </div>
-            .<div className="BlogPage">
+            <div className="BlogPage">
                 {
                     allBlogs.map((blog)=>{
                         return <div className="blog" key={blog.id}>

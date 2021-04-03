@@ -1,12 +1,12 @@
 .BlogPage {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 2.5rem;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
 }
 
 .BlogPage .blog {
     background-color: #161925;
-    width: 100%;
+    width: 90%;
     padding: 1rem;
     overflow: hidden;
 }
@@ -41,4 +41,10 @@
 
 .b-title {
     margin-bottom: 4rem;
+}
+
+@media screen and (max-width: 450px){
+    .BlogPage{
+        grid-template-columns: repeat(1, 1fr);
+    }
 }
