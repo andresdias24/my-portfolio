@@ -14,7 +14,7 @@ const blogs = [
     {
         id: 2,
         image: blog3,
-        title: 'SPA en nuxt',
+        title: 'APP de comercio basica en nuxt',
         link: 'https://github.com/andresdias24/nuxtE-commerce',
     },
     {
