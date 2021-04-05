@@ -19,9 +19,15 @@ const blogs = [
     },
     {
         id: 3,
-        image: blog1,
+        image: blog3,
         title: 'server strapi',
         link: 'https://github.com/andresdias24/overclock-server',
+    },
+    {
+        id: 4,
+        image: blog4,
+        title: 'REST API NodeJs',
+        link: 'https://github.com/andresdias24/Example-RESTAPI-NodeJS',
     },
 ];
 

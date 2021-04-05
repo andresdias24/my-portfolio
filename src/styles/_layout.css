@@ -75,7 +75,7 @@
     display: flex;
     align-content: space-between;
     cursor: pointer;
-    outline: none;
+    outline: inherit;
 }
 
 
@@ -86,22 +86,22 @@
     pointer-events: none;
     display: none;
     border-radius: 20px;
-    outline: none;
+    outline: inherit;
 }
 
 .nav-btn .line-1, .line-2, .line-3.n:not(:last-child) {
     margin-bottom: .5rem;
-    outline: none;
+    outline: inherit;
 }
 @media screen and (max-width: 1000px){
     .nav-btn {
         display: block;
-        outline: none;
+        outline: inherit;
     }
 }
 @media screen and (max-width: 1000px){
     .nav-btn .line-1, .line-2, .line-3 {
         display: block;
-        outline: none;
+        outline: inherit;
     }
 }
