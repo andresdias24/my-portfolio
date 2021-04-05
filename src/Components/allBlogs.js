@@ -8,25 +8,25 @@ const blogs = [
     {
         id: 1,
         image: blog1,
-        title: 'Code my portfolio',
+        title: 'codigo de mi portfolio',
         link: 'https://github.com/andresdias24/my-portfolio',
     },
     {
         id: 2,
         image: blog3,
-        title: 'Single Page Aplication nuxt',
+        title: 'SPA en nuxt',
         link: 'https://github.com/andresdias24/nuxtE-commerce',
     },
     {
         id: 3,
         image: blog2,
-        title: 'server strapi',
+        title: 'backend con strapi',
         link: 'https://github.com/andresdias24/overclock-server',
     },
     {
         id: 4,
         image: blog4,
-        title: 'REST API NodeJs',
+        title: 'REST API en NodeJs',
         link: 'https://github.com/andresdias24/Example-RESTAPI-NodeJS',
     },
 ];
