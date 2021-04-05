@@ -13,13 +13,13 @@ const blogs = [
     },
     {
         id: 2,
-        image: blog2,
+        image: blog3,
         title: 'Single Page Aplication nuxt',
         link: 'https://github.com/andresdias24/nuxtE-commerce',
     },
     {
         id: 3,
-        image: blog3,
+        image: blog2,
         title: 'server strapi',
         link: 'https://github.com/andresdias24/overclock-server',
     },
